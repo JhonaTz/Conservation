@@ -1,4 +1,4 @@
 Primer Art: Soy el texto del primer artículo, debo estar en una sola línea.
 Segundo Art: Soy el texto del segundo artículo, debo estar en una sola línea.
-Tercer Art:
+Tercer Art: Soy el texto del tercer artículo, debo estar en una sola línea.
 Cuarto Art:
